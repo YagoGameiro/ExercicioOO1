@@ -1,0 +1,6 @@
+c:\users\logatti.fiar\source\repos\ProjetoAulaOO2\Entitade\bin\Debug\Entitade.dll
+c:\users\logatti.fiar\source\repos\ProjetoAulaOO2\Entitade\bin\Debug\Entitade.pdb
+c:\users\logatti.fiar\source\repos\ProjetoAulaOO2\Entitade\obj\Debug\Entitade.csprojResolveAssemblyReference.cache
+c:\users\logatti.fiar\source\repos\ProjetoAulaOO2\Entitade\obj\Debug\Entitade.csproj.CoreCompileInputs.cache
+c:\users\logatti.fiar\source\repos\ProjetoAulaOO2\Entitade\obj\Debug\Entitade.dll
+c:\users\logatti.fiar\source\repos\ProjetoAulaOO2\Entitade\obj\Debug\Entitade.pdb
